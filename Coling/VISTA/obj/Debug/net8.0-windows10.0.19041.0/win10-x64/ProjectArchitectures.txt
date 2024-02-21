@@ -1,0 +1,1 @@
+E:\SistemaColing\colingncapas\Coling\VISTA\VISTA.csproj;x64

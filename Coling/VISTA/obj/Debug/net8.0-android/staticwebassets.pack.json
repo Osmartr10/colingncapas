@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\SistemaColing\\colingncapas\\Coling\\VISTA\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\VISTA.styles.css",
+      "PackagePath": "staticwebassets\\VISTA.styles.css"
+    },
+    {
+      "Id": "E:\\SistemaColing\\colingncapas\\Coling\\VISTA\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "E:\\SistemaColing\\colingncapas\\Coling\\VISTA\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\SistemaColing\\colingncapas\\Coling\\VISTA\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\SistemaColing\\colingncapas\\Coling\\VISTA\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "E:\\SistemaColing\\colingncapas\\Coling\\VISTA\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.VISTA.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.VISTA.props",
+      "PackagePath": "build\\VISTA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.VISTA.props",
+      "PackagePath": "buildMultiTargeting\\VISTA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.VISTA.props",
+      "PackagePath": "buildTransitive\\VISTA.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
